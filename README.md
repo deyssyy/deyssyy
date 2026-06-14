@@ -14,6 +14,10 @@
 * **Тестирование:** `XCTest (Unit / UI)`
 
 ---
+### 📊 Моя статистика GitHub
+
+[![GitHub Stats](https://vercel.app)](https://github.com)
+[![Top Langs](https://vercel.app)](https://github.com)
 
 ### 📫 Как со мной связаться
 
