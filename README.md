@@ -1,16 +1,21 @@
-## Hi there I'm Nikita👋
+# Привет! Я Никита 👋 (iOS Developer)
 
-<!--
-**deyssyy/deyssyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я занимаюсь мобильной разработкой под iOS, создаю современные, быстрые и поддерживаемые приложения. Люблю чистый код и функциональный дизайн.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Мой стек технологий
+
+* **Языки и UI:** `Swift` • `SwiftUI` • `UIKit`
+* **Многопоточность:** `GCD` • `Swift Concurrency` • `Combine`
+* **Данные и Сеть:** `Core Data` • `REST API` • `URLSession` • `JSON` • `OAuth 2.0` • `Keychain`
+* **Архитектура и принципы:** `MVVM` • `MVP` • `SOLID` • `KISS` • `DRY`
+* **Инструменты:** `Git` • `SPM` • `Kingfisher` • `CocoaPods`
+* **Тестирование:** `XCTest (Unit / UI)`
+
+---
+
+### 📫 Как со мной связаться
+
+* 📧 **Email:** [Deysyy88@gmail.com]
+* 📱 **Telegram:** [@nikitavolya]
